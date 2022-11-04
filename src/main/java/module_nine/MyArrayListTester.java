@@ -1,4 +1,4 @@
-package moduleNine;
+package module_nine;
 
 public class MyArrayListTester {
     public static void main(String[] args) {
